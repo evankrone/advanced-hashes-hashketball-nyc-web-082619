@@ -193,7 +193,7 @@ game_hash.each do |key, value|
       
       rebounds = stat[:rebounds]
       size = stat[:shoe]
-      binding.pry
+      # binding.pry
     end
   end
 end
